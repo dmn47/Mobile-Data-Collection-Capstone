@@ -14,7 +14,45 @@ A diagram of the wiring for the wearable device is included in the comments of t
 HOOKUP
 
 
-Cables to breadboard
+CABLES TO BREADBOARD
 
-White two pin - Blue - GND
-              - Purple - VCC
+White two pin 
+
+- Blue - GND
+- Purple - VCC
+
+Blue Four pin
+
+- Yellow - teensy pin 23
+- green - teensy pin 22
+- grey - teensy pin 21
+- white - teensy pin 20
+
+
+Green Six pin
+
+-white - breadboard 30b
+- grey - breadboard 29b
+- purple - breadboard 28b
+- blue - breadboard 27b
+- green - breadboard 26b
+- yellow - breadboard 25b
+- 
+
+CABLES TO WEARABLE DEVICE
+
+Green six pin
+
+- White - 13L
+- grey - 14L
+- Purple - 15L
+- Blue - 16L
+- Green - 17L
+- Yellow - 18L
+
+FSR's
+
+- Orange + white - Heel
+- Red + Yellow - Left side
+- Green + brown - Right side
+- Grey + White - Toe
