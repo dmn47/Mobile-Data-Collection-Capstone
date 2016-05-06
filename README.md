@@ -31,13 +31,13 @@ Blue Four pin
 
 Green Six pin
 
--white - breadboard 30b
+- white - breadboard 30b
 - grey - breadboard 29b
 - purple - breadboard 28b
 - blue - breadboard 27b
 - green - breadboard 26b
 - yellow - breadboard 25b
-- 
+
 
 CABLES TO WEARABLE DEVICE
 
