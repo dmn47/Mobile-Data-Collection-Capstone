@@ -9,3 +9,12 @@ Mobile-Data-Collection-Debugging-Version2.zip is code for a altered final versio
 TeamMDCversion10 is the arduino code for the wearable device. 
 
 A diagram of the wiring for the wearable device is included in the comments of the arduino code in TeamMDCversion10
+
+
+HOOKUP
+
+
+Cables to breadboard
+
+White two pin - Blue - GND
+              - Purple - VCC
